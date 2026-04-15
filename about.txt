@@ -1,2 +1,3 @@
 The best way to try to describe it is as a methodof trying to manage my versions of code
 The best way to describe my project is to try and enhance my code and understand git
+Version:1.0 
