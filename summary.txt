@@ -1,1 +1,2 @@
 This project will assist my understanding of git.  May the Lord bless my work
+This project is for my git certification.
